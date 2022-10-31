@@ -17,5 +17,13 @@ Now, suppose we want to check how well our machine learning model learns and gen
 - The size of the training dataset used is not enough
 - The model is too simple
 
+#
+
+![image](https://user-images.githubusercontent.com/92504503/198991401-060e6550-0619-4af9-8866-d3549f8ecc5a.png)
 
 ![image](https://miro.medium.com/max/1125/1*_7OPgojau8hkiPUiHoGK_w.png)
+
+Note:
+
+**Noise**
+> Noise is Unnecessary and irrelevant data that reduces the performance of the model.
