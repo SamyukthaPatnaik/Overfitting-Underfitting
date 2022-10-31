@@ -16,3 +16,6 @@ Now, suppose we want to check how well our machine learning model learns and gen
 - The model has a high bias
 - The size of the training dataset used is not enough
 - The model is too simple
+
+
+![image](https://miro.medium.com/max/1125/1*_7OPgojau8hkiPUiHoGK_w.png)
