@@ -29,4 +29,4 @@ Note:
 > Noise is Unnecessary and irrelevant data that reduces the performance of the model.
 
 
-![image](https://user-images.githubusercontent.com/92504503/198993832-2038849e-9e55-4cf2-9ba8-4563496b0cad.png)
+![image](https://user-images.githubusercontent.com/92504503/198994417-0cca5511-e4cb-4d65-96ab-487eac8888b5.png)
