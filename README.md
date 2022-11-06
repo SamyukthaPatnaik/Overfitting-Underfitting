@@ -25,8 +25,7 @@ Now, suppose we want to check how well our machine learning model learns and gen
 
 Note:
 
-**Noise**
-> Noise is Unnecessary and irrelevant data that reduces the performance of the model.
+**Noise** > Noise is Unnecessary and irrelevant data that reduces the performance of the model.
 
 
 ![image](https://user-images.githubusercontent.com/92504503/198994417-0cca5511-e4cb-4d65-96ab-487eac8888b5.png)
