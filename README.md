@@ -23,6 +23,8 @@ Now, suppose we want to check how well our machine learning model learns and gen
 
 ![image](https://miro.medium.com/max/1125/1*_7OPgojau8hkiPUiHoGK_w.png)
 
+#
+
 Note:
 
 **Noise** > Noise is Unnecessary and irrelevant data that reduces the performance of the model.
