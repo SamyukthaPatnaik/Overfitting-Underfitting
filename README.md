@@ -5,6 +5,7 @@ This helps us to make predictions about future data, that the data model has nev
 
 Now, suppose we want to check how well our machine learning model learns and generalizes to the new data. For that, we have overfitting and underfitting, which are majorly responsible for the poor performances of the machine learning algorithms.
 
+
 ### Reasons for Overfitting
 - Data used for training is not cleaned and contains noise (garbage values) in it
 - The model has a high variance
